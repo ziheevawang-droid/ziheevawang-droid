@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Zihe, you can call me Eva</h1>
+<h1 align="center">Hi 👋, I'm Zihe</h1>
 
 <p align="center">
 Undergraduate @ UC Berkeley <br>
