@@ -4,81 +4,50 @@
 Undergraduate @ UC Berkeley <br>
 Double Major in Data Science & Cognitive Science
 </p>
-
+I enjoy combining machine learning with cognitive science to better understand intelligent behavior while building AI systems that people can trust.
 ---
 
-## 🚀 About Me
-
-### 💡 My current interests include:
+### 💡 Research interests:
 
 - 🤖 Machine Learning
 - 🧠 Computational Cognitive Science
-- 👁️ Computer Vision
 - 💬 Natural Language Processing
 - 🔬 AI Reliability & Evaluation
 - 🤝 Human-AI Interaction
 
-I enjoy combining machine learning with cognitive science to better understand intelligent behavior while building AI systems that people can trust.
+---
+
+### 🔭 I’m currently working on:
+
+📄 AI Financial Audit Agent
+
+- Building a multi-agent system that analyzes annual reports and generates structured audit reports.
+- LLM reliability
 
 ---
 
-## 🔭 I’m currently working on:
-
-### AI Financial Audit Agent
-
-Building a multi-agent system that analyzes annual reports and generates structured audit reports.
-
-- Multi-agent collaboration
-- Hallucination mitigation
-- Risk analysis
-- Explainable financial reasoning
-- Trust layer construction
-
----
-
-## 🌱 I’m currently learning:
+### 📚 I’m currently learning:
 
 - Machine Learning
-- Deep Learning
 - Multi-Agent Systems
 - AI Evaluation
-- Natural Language Processing
 
 ---
 
-## 🎯 My past projects:
-
-### 🍎 Fruit Quality Classification
-
-- Compared VGG16, MobileNet, and EfficientNet for fruit quality prediction
-- Computer Vision
-- Image Classification
-- Model fine-tuning
-
-### 🌍 Climate Classification CNN
-
-- Climate zone classification
-- Deep Learning
-- CNN building & training
-
----
-
-## 🌱 In my free time:
+### 🌱 In my free time:
 
 - 🥏 Playing Ultimate Frisbee
 - 🎵 Playing Cello
 - 🏃 Running
-- 👭 Hanging With Friends
-- 🍱 Tasting Food!
 
 ---
 
-## 📫 How to reach me: 
+### 📫 How to reach me: 
 
 - LinkedIn: *(https://www.linkedin.com/in/eva-wang-1833bb31a/)*
 - Email: *(zihewangeva@berkeley.edu)*
 
 ---
 
-## ⚡ Fun fact: I traveled to 10 national parks in one summer!🏞
+### ⚡ Fun fact: I traveled to 10 national parks in one summer!🏞
 
