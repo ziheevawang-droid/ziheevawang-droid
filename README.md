@@ -4,8 +4,8 @@
 Undergraduate @ UC Berkeley <br>
 Double Major in Data Science & Cognitive Science
 </p>
-I enjoy combining machine learning with cognitive science to better understand intelligent behavior while building AI systems that people can trust.
----
+
+## I enjoy combining machine learning with cognitive science to better understand intelligent behavior while building AI systems that people can trust.
 
 ### 💡 Research interests:
 
