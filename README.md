@@ -46,8 +46,3 @@ I enjoy combining machine learning with cognitive science to better understand i
 
 - LinkedIn: *(https://www.linkedin.com/in/eva-wang-1833bb31a/)*
 - Email: *(zihewangeva@berkeley.edu)*
-
----
-
-### ⚡ Fun fact: I traveled to 10 national parks in one summer!🏞
-
