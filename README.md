@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**ziheevawang-droid/ziheevawang-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Zihe Wang, you can call me Eva</h1>
 
 <p align="center">
