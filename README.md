@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Zihe Wang, you can call me Eva</h1>
+<h1 align="center">Hi 👋, I'm Zihe, you can call me Eva</h1>
 
 <p align="center">
 Undergraduate @ UC Berkeley <br>
@@ -10,12 +10,6 @@ Double Major in Data Science & Cognitive Science
 ---
 
 ## 🚀 About Me
-
-### 📫 How to reach me: 
-
-- LinkedIn: *(https://www.linkedin.com/in/eva-wang-1833bb31a/)*
-- Email: *(zihewangeva@berkeley.edu)*
-
 
 ### 💡 My current interests include:
 
@@ -81,5 +75,12 @@ Building a multi-agent system that analyzes annual reports and generates structu
 
 ---
 
-- ⚡ Fun fact: I traveled to 10 national parks in one summer!🏞
+## 📫 How to reach me: 
+
+- LinkedIn: *(https://www.linkedin.com/in/eva-wang-1833bb31a/)*
+- Email: *(zihewangeva@berkeley.edu)*
+
+---
+
+## ⚡ Fun fact: I traveled to 10 national parks in one summer!🏞
 
