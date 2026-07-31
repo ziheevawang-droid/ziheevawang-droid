@@ -22,7 +22,7 @@ I enjoy combining machine learning with cognitive science to better understand i
 
 ---
 
-## 🔭 I’m currently working on ...
+## 🔭 I’m currently working on:
 
 ### AI Financial Audit Agent
 
@@ -36,7 +36,7 @@ Building a multi-agent system that analyzes annual reports and generates structu
 
 ---
 
-## 🌱 I’m currently learning ...
+## 🌱 I’m currently learning:
 
 - Machine Learning
 - Deep Learning
@@ -63,7 +63,7 @@ Building a multi-agent system that analyzes annual reports and generates structu
 
 ---
 
-## 🌱 In my free time ...
+## 🌱 In my free time:
 
 - 🥏 Playing Ultimate Frisbee
 - 🎵 Playing Cello
