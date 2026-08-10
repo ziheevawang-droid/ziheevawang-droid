@@ -19,7 +19,7 @@ I enjoy combining machine learning with cognitive science to better understand i
 
 ### 🔭 I’m currently working on:
 
-📄 AI Financial Audit Agent
+📄 AI Financial Audit Agent *(https://github.com/ziheevawang-droid/financial-audit-ai-agent)*
 
 - Building a multi-agent system that analyzes annual reports and generates structured audit reports.
 - LLM reliability
